@@ -1,5 +1,5 @@
-# Expense Traker
-Building note taking application using asp.net core mvc
+# Expense Tracker
+Building expenser tracker application using asp.net core mvc
 
 ## Entity framework db migration sample code
 ```sh
