@@ -1,4 +1,4 @@
-# NoteWebApplication
+# Expense Traker
 Building note taking application using asp.net core mvc
 
 ## Entity framework db migration sample code
